@@ -6,7 +6,7 @@
  */
 
 return array(
-    'connectionString' => 'mysql:host=localhost;port=3306;dbname=partnerdb',
+    'connectionString' => 'mysql:host=192.168.1.229;port=3306;dbname=partnerdb',
     'emulatePrepare' => true,
     'username' => 'conn',
     'password' => '4dm1n2014',
