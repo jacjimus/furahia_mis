@@ -1,0 +1,3 @@
+a:2:{i:0;a:8:{s:12:"email_mailer";s:4:"smtp";s:22:"email_sendmail_command";s:0:"";s:10:"email_host";s:15:"mail.google.com";s:10:"email_port";s:3:"465";s:14:"email_username";s:18:"jacjimus@gmail.com";s:14:"email_password";s:12:"@james2014*$";s:14:"email_security";s:3:"ssl";s:18:"email_master_theme";s:23:"<p>
+	  {content}
+</p>";}i:1;N;}
